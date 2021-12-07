@@ -8,5 +8,9 @@ Adobe XD
 
 Détails des tâches confiées à chaque membre:
 
-Fahd:la moitiée de site web/version mobile
-Mohammed:l'autre moitiée de site web/version mobile
+Fahd: wireframing accueil web version/wireframing contact version mobile/
+wireframing menu web version/zoning menu version mobile/zoning menu web
+/zoning accueil mobile(la moitiée)/zoning accueil web version(la moitiée)/wireframing accueil mobile (la moitiée)
+
+Mohammed: wireframing contact web version/zoning contact mobile/zoning contact version web/zoning menu version web
+/zoning accueil web version(la moitiée)/wireframing menu version mobile/zoning accueil mobile(la moitiée)/wireframing accueil mobile (la moitiée)
